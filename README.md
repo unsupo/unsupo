@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer at <a href="https://www.salesforce.com/">Salesforce</a>
+Senior Software Engineer
 
 <!--![Twitter Follow](https://img.shields.io/twitter/follow/unsupo?label=Follow)
 [![Linkedin: Jonathan Arndt](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-arndt-b8b28097/)](https://www.linkedin.com/in/jonathan-arndt-b8b28097/)
